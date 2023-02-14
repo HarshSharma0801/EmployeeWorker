@@ -15,6 +15,7 @@ public class Main {
         System.out.println("joe's paycheck is $"+ joe.collectPay());
         joe.retire();
         System.out.println("joe's pension pay is $"+joe.collectPay());
+        
 
     }
 }
