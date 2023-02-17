@@ -22,5 +22,6 @@ public class Main {
         System.out.println("lina's holiday paycheck is $"+lina.getDoublePay());
 
 
+
     }
 }
